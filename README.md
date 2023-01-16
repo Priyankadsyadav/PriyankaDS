@@ -4,4 +4,4 @@
 
 To utilize my knowledge and ideas in the field of Data Science
 
-Reach me on [https://www.linkedin.com/in/priyanka-yadav-80801816b/](url)
+Reach me on [LinkedIn]([url](https://www.linkedin.com/in/priyanka-yadav-80801816b/))
