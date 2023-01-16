@@ -7,4 +7,4 @@ To utilize my knowledge and ideas in the field of Data Science
 Reach me on [Linkedin](https://www.linkedin.com/in/priyanka-yadav-80801816b/)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?PriyankaDS= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?PriyankaDS &theme=radical)
